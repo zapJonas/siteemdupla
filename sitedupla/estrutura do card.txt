@@ -1,0 +1,80 @@
+<div class="card-body">
+      <h5 class="card-title">Late Registration</h5>
+      <img src="img/maxresdefault.jpg" alt="Late Registration " width="600" height="300">
+      <br>
+      <br>
+      <div class="accordion" id="accordionExample">
+        <div class="card">
+          <div class="card">
+            <div class="card-header" id="headingOne">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                  Intro
+                </button>
+              </h5>
+            </div>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+              <div class="card-body">
+                Late Registration é o segundo álbum de estúdio do rapper americano Kanye West. Foi lançado pela Roc-A-Fella Records a 30 de Agosto de 2005. As sessões de gravação do álbum estenderam-se ao longo de um ano em vários estúdios de gravação situados em Nova Iorque e Hollywood. West colaborou com o produtor musical e compositor americano Jon Brion para a produção de Late Registration, e o álbum conta com a participação de artistas convidados, como Jay-Z, Lupe Fiasco, Jamie Foxx, Nas, Brandy, e Adam Levine.
+
+A produção de West para Late Registration foi notavelmente mais exuberante e elaborada do que sua estreia em 2004 com The College Dropout. Ao colaborar com Jon Brion, West foi capaz de utilizar estilos de produção e instrumentos não comumente associados ao hip-hop, incluindo métodos de samples intrincados e orquestração de cordas. West ainda procurou escrever letras que permitiam continuar seu estilo de contar histórias durante as músicas, e o álbum explora questões pessoais e sociais, incluindo a pobreza, tráfico de drogas, o racismo, saúde e o comércio de diamantes de sangue.
+
+Cinco singles foram retirados de Late Registration, incluindo os hits internacionais "Touch the Sky", "Heard 'Em Say" e "Gold Digger", que atingiu primeiro lugar na Billboard Hot 100. Foram produzidos vídeos para todos os cinco singles. Para divulgar o álbum West fez uma turnê promocional, e gravou o álbum ao vivo Late Orchestration.
+
+Late Registration estreou em primeiro lugar na Billboard 200, vendendo 860.000 cópias em sua primeira semana. O álbum vendeu mais de 3,1 milhões de cópias nos Estados Unidos e foi certificado platina tripla pela RIAA.
+
+Após o lançamento, Late Registration recebeu elogios da crítica musical e ganhou vários prêmios, incluindo um Grammy de Melhor Álbum de Rap no Grammy Awards de 2006 e foi nomeado a Álbum do Ano. Ele apareceu no topo de várias listas de críticos de melhores álbuns do ano. Rolling Stone nomeou-o como melhor álbum de 2005, e inclui-o na 118ª posição em sua lista dos 500 Maiores Álbuns de Todos os Tempos em 2012.
+              </div>
+            </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Lyrics
+              </button>
+            </h5>
+          </div>
+          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+            <div class="card-body">
+              "Late Registration" é o segundo álbum de Kanye West e, ao longo de suas faixas, ele explora uma variedade de temas que refletem tanto suas experiências pessoais quanto suas observações sobre a sociedade. O disco, lançado em 2005, é uma mistura de introspecção, crítica social e reflexões sobre fama e sucesso.
+
+Kanye dedica várias músicas a refletir sobre os altos e baixos da fama. Em faixas como "Gold Digger" e "Diamonds from Sierra Leone", ele comenta sobre as relações superficiais e as pressões da vida pública, mas também oferece críticas a um sistema que muitas vezes explora e corrompe. Ele aborda como a riqueza pode gerar tanto admiradores quanto aproveitadores, mas sem perder a autocrítica. A ambição também é um tema recorrente; Kanye não apenas celebra suas conquistas, mas também questiona as implicações do sucesso e o que ele realmente significa na vida de uma pessoa.
+
+Além disso, há uma forte presença de questões pessoais e familiares no álbum. Em faixas como "Roses", Kanye fala sobre a perda de entes queridos e as emoções complexas que surgem nessas situações, como a morte de um familiar. O álbum também toca em aspectos das relações, seja com a família, o amor ou a pressão social. Kanye reflete sobre os desafios de equilibrar sua vida pessoal com a vida profissional, além de se distanciar de uma imagem idealizada, mostrando suas vulnerabilidades e falhas.
+
+"Late Registration" também é uma crítica contundente à sociedade e às desigualdades sociais, especialmente em relação à comunidade negra nos Estados Unidos. Músicas como "Crack Music" exploram o impacto das drogas e da violência nas periferias, enquanto em "Bring Me Down" Kanye critica a hipocrisia da indústria musical e da sociedade de forma geral. Ele expõe como ele se sente constantemente desafiado e observado, ao mesmo tempo em que enfrenta as dificuldades de ser uma figura pública e um ícone da cultura pop.
+
+Musicalmente, o álbum apresenta uma produção mais rica e refinada em comparação com seu antecessor, "The College Dropout". Kanye trabalha com uma sonoridade mais orquestrada, usando samples de soul, jazz e até música clássica. A colaboração com músicos como John Legend e Mike Dean resultou em uma produção que se destaca pela complexidade e pela maneira como mistura diferentes gêneros, dando ao álbum uma sonoridade expansiva e multifacetada.
+
+No fim das contas, "Late Registration" é um álbum que mistura a grandiosidade de um artista que se vê no centro das atenções com as inseguranças e os dilemas de uma pessoa em busca de seu lugar no mundo. A dualidade de Kanye, entre confiança e vulnerabilidade, é um dos maiores destaques do álbum, tornando-o uma obra rica em camadas e significado.
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h5 class="mb-0">
+              <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Premios
+              </button>
+            </h5>
+          </div>
+          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+            <div class="card-body">
+             <ul>
+              <li><strong>Best Art Vinyl Awards: </strong>Melhor arte de album(CITADO)</li>
+              <li><strong>HipHopDX Awards: </strong>Album do ano(CITADO)</li>
+              <li><strong>Vibe Awards: </strong>Album do ano(GANHOU)</li>
+              <li><strong>Billboard R&B/Hip-Hop Awards: </strong>Album de rap do ano(GANHOU)</li>
+              <li><strong>Grammy Awards: </strong>Concorreu em duas categorias:<dl>
+                <li>Melhor album de Rap(Ganhou)</li>
+                <li>Album do ano(Citado)</li>
+              <li><strong>MP3.com Awards: </strong>Album do ano(GANHOU)</li>
+                <li><strong>TEC Awards: </strong>Melhor produção de album(Citado)</li>
+             </ul>
+          </div>
+        </div>
+      </div>
+    <div class="card-footer text-muted">
+      19 anos atrás
+    </div>
+  </div>
